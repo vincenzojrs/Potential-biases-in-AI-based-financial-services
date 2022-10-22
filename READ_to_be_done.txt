@@ -1,7 +1,7 @@
 ### TO BE DONE BY 5.11.2022 ####
 
 1. The code can run only in a venv with 3.7.10 working python. No conda. Martina should have the right venv.
-      If you are in troubles, try to download the venv and open it as project in pycharm or your favourite IDE
+      If you are in troubles, try to download the venv and open it as project in pycharm or your favourite IDE: https://drive.google.com/drive/folders/1BJvf1KrW12xtHSNWyBkw0iCJtmSY51Uk?usp=sharing
 1. Change the metrics from MSE to AUC in the function we created
 2. Change the variables list to ethical ones in [#5- #6] block
 3. The code is already commented. Then, comment the markdown with your thoughts
